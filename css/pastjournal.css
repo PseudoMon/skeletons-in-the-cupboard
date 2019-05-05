@@ -10,6 +10,7 @@ img { max-width: 100%; border: solid #f1ebd2;}
 
 a { color: #746b68; text-decoration: none; }
 a:hover { color: #3c3407; }
+h1 a { color: inherit; }
 
 .container {
     background-color: white;
